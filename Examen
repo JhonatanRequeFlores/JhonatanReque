@@ -1,0 +1,19 @@
+usuario = "johnjara"
+clave = 1478
+
+input("Ingrese su Usuario: ")
+int(input("Ingrese su Clave: "))
+
+if usuario=="johnjara":
+    print("Usuario correcto")
+elif usuario==40057896:
+    print("Usuario correcto")
+else:
+    print("El Usuario es incorrecto")
+
+if clave==1478:
+    print("Clave correcta")
+else:
+    print("El Usuario es incorrecto")
+    
+print("Gracias por ingresar")
